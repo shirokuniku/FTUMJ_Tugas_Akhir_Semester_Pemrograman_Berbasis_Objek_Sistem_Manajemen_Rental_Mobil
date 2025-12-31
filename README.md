@@ -1,2 +1,4 @@
 # FTUMJ_Tugas_Akhir_Semester_Pemrograman_Berbasis_Objek_Sistem_Manajemen_Rental_Mobil
-Tugas Akhir Semester 3 Mohammad Daffa Shafy Loggery, Alifya Putri Aisyka
+Tugas Akhir Semester 3 
+24040700107 Mohammad Daffa Shafy Loggery 
+25040750004 Alifya Putri Aisyka

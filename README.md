@@ -5,10 +5,9 @@
 
 ## ACADEMIA PDF :
 
-### MEMBER
-- 24040700107 Mohammad Daffa Shafy Loggery 
+### MEMBER 
 - 25040750004 Alifya Putri Aisyka
-
+- 24040700107 Mohammad Daffa Shafy Loggery 
 ## TUJUAN :
 - Memberikan opsi kepada rental mobil yang membutuhkan sistem yang cepat, efisien, dan dapat mudah untuk di akses.
 - Sistem yang dapat juga memudahkan _customer_, tidak menghabiskan waktu untuk mencari inventori dan lot.
